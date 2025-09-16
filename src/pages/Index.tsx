@@ -51,9 +51,9 @@ const Index = () => {
                   variant="outline" 
                   size="lg" 
                   className="text-lg"
-                  onClick={() => navigate('/dashboard')}
+                  onClick={() => navigate('/auth')}
                 >
-                  Ver Demonstração
+                  Fazer Login
                 </Button>
               </div>
             </div>
